@@ -1,0 +1,3 @@
+- stars
+- books
+- music
